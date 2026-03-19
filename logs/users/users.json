@@ -1,0 +1,2556 @@
+{
+  "bb19c104ff00d99184c1afcf0956b10409785e673eb811ec1886de95bf57bdf3": {
+    "groups": [
+      "120363423975280243@g.us",
+      "120363424709988223@g.us",
+      "120363392152249399@g.us",
+      "120363425601967723@g.us",
+      "120363041516751424@g.us",
+      "120363425074916140@g.us",
+      "120363426429579586@g.us",
+      "120363304433430564@g.us",
+      "120363423339855298@g.us",
+      "120363421775820810@g.us"
+    ],
+    "totalMessages": 42,
+    "mediaCount": 1,
+    "textCount": 41,
+    "lastSeen": "2026-03-19T11:24:32.234Z"
+  },
+  "b4f7b98ebdf840cf74ee21a14bb4252c2f29b03416bf61f6d3edcbf4c00a1c7f": {
+    "groups": [
+      "120363420937080786@g.us",
+      "120363423445449589@g.us",
+      "120363300978425725@g.us",
+      "120363425601967723@g.us",
+      "120363421775820810@g.us",
+      "120363422021799355@g.us",
+      "120363423265346332@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 91,
+    "mediaCount": 1,
+    "textCount": 90,
+    "lastSeen": "2026-03-19T10:11:53.956Z"
+  },
+  "62cdaf0b74b9be6d3c49ef6bb203ef98947bddb0ae0bdf4e1bef0e2a38392597": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 13,
+    "mediaCount": 0,
+    "textCount": 13,
+    "lastSeen": "2026-03-18T20:14:04.469Z"
+  },
+  "eb4ef1080c5ae280068852a2b8d3f54994815d7cb135200501893c1a78a51e69": {
+    "groups": [
+      "120363405084530427@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 1,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:38:58.750Z"
+  },
+  "9252368c0b57909d24ec32522c4035ad6005151362532f80637785e7d5b547d1": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 7,
+    "mediaCount": 2,
+    "textCount": 5,
+    "lastSeen": "2026-03-18T20:04:52.917Z"
+  },
+  "24dc1353d4ee4d30c178f1db916e3c30f215b32cd34f0c1b58e53bd8f588c755": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 17,
+    "mediaCount": 0,
+    "textCount": 17,
+    "lastSeen": "2026-03-19T00:50:34.111Z"
+  },
+  "b6c6d382ccebec78b59047414f1a418e799584724c62d438949a27de937424e2": {
+    "groups": [
+      "120363405151105405@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:03:22.131Z"
+  },
+  "524f97210239cd9b9f12d72a7d1aaa0072bd8a17ae7ae9e93ea62cee9fe826e0": {
+    "groups": [
+      "120363405084530427@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:04:15.507Z"
+  },
+  "85e5e8d7765d4337fca9b5ab9c4a0f7f07b7a61ae26ff709343b84e8e1ec73ef": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T21:40:09.586Z"
+  },
+  "f7194e6ec1a74e6740508511a5f60ddc1669da38d48c15972c5b4a7cee8cf743": {
+    "groups": [
+      "120363405084530427@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:06:30.942Z"
+  },
+  "0174ba92d708cb702bb424251e47ca200fff0f99a39c8fd3d1c24f492913bf34": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T10:06:17.913Z"
+  },
+  "70170a8d773196de0441cd43209a60e45827fe22e597b6d9cfaf7415f26aa222": {
+    "groups": [
+      null
+    ],
+    "totalMessages": 3,
+    "mediaCount": 3,
+    "textCount": 0,
+    "lastSeen": "2026-03-18T22:23:21.638Z"
+  },
+  "2a21f173feec7af8a28fb40efc5c2d1a5e74f68bab78c9598795ed0a2157fa6b": {
+    "groups": [
+      "120363405151105405@g.us",
+      "120363399967884855@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T10:12:54.179Z"
+  },
+  "d3eb572d2875488428031d7a1a5f5240c49b4ada5ed646c16b260b3dcb3be18a": {
+    "groups": [
+      "120363405151105405@g.us",
+      "120363300978425725@g.us",
+      "120363424709988223@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 23,
+    "mediaCount": 0,
+    "textCount": 23,
+    "lastSeen": "2026-03-19T10:11:56.462Z"
+  },
+  "48a8dba41804c84cac0078ef1f2e167b109d65cf05a8e76cbb916eb6341382db": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:22:16.014Z"
+  },
+  "54840af328029f278bb2a30dda203acf12a8d4974432270965ed85a20f02ee3b": {
+    "groups": [
+      "120363300978425725@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T11:21:06.550Z"
+  },
+  "ecbc61ce7a255ba39ec7bc9f5dc778555fe95d193990ece7cc60bb1eed1fbd74": {
+    "groups": [
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 11,
+    "mediaCount": 0,
+    "textCount": 11,
+    "lastSeen": "2026-03-19T00:13:58.505Z"
+  },
+  "0d35b968aa4c74465b139680b3e7203a5c2bbe380a64a630af6de94ce0c11fc3": {
+    "groups": [
+      "120363399967884855@g.us",
+      "120363385628034399@g.us",
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 0,
+    "textCount": 5,
+    "lastSeen": "2026-03-18T23:55:56.100Z"
+  },
+  "81f0158b0839b562943f9c08081d5eb253a94cfc28892ef9031bc40f64efa26f": {
+    "groups": [
+      "120363385628034399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:31:34.778Z"
+  },
+  "ac75ee5258a54560cc480e2312e13f073651dea1d1fd81a825b48883d76666c8": {
+    "groups": [
+      "120363399967884855@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:39:09.928Z"
+  },
+  "bfaee02510ba5d83c897ef4e7b8126d16a47853ddf8a6d392587d97952fde49c": {
+    "groups": [
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 7,
+    "mediaCount": 0,
+    "textCount": 7,
+    "lastSeen": "2026-03-18T21:08:36.381Z"
+  },
+  "bce4ef8bc2b1c9cbddb7b1ecac36a397b5550694c33cc4f0ad1caeb149883022": {
+    "groups": [
+      "120363423339855298@g.us",
+      null
+    ],
+    "totalMessages": 188,
+    "mediaCount": 75,
+    "textCount": 113,
+    "lastSeen": "2026-03-19T00:52:39.241Z"
+  },
+  "6849157a94670de20f1ce4ff48a264b579da0b9614249933273a558fd9174010": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 3,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T21:04:16.931Z"
+  },
+  "414fdadcb059daca13e605d13e04ec645c4c5cbf9bd42bbd6f6d7113a454a35d": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T00:24:20.927Z"
+  },
+  "5f8092e97ee6a54d576ae249381b6bc6bf399068526aaee49e410b002f4563a1": {
+    "groups": [
+      "120363399967884855@g.us",
+      "120363385628034399@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 2,
+    "textCount": 0,
+    "lastSeen": "2026-03-18T20:50:03.687Z"
+  },
+  "8e04965db820e6437bdd3fb239612b0e9e8b6d317f81b51eeba02f25539579d3": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:42:12.814Z"
+  },
+  "9fca5140d54ba5702d43e10a53c5c2126d9a1b3efebcd3e5c015c70a57276b7b": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 9,
+    "mediaCount": 0,
+    "textCount": 9,
+    "lastSeen": "2026-03-19T03:48:08.782Z"
+  },
+  "c05eb41289b0d95139ec42fff57f4fd6179466661c7f5d0eddf7810f0ba48b93": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T06:04:31.590Z"
+  },
+  "8fb20764619e885aa85ab8a1923c0e7c6036bc077fe03b99b0778960c9a33b62": {
+    "groups": [
+      "120363420937080786@g.us",
+      "120363423265346332@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 0,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T03:56:50.620Z"
+  },
+  "cddd132d5b800c324a82b147bf01777bee93b94dc6c092930f65aae1a69b46be": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T20:59:26.550Z"
+  },
+  "90952513c322dc70b25ed64d9f96b665d87753002898393be282e939999edfa2": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 54,
+    "mediaCount": 4,
+    "textCount": 50,
+    "lastSeen": "2026-03-19T04:17:31.556Z"
+  },
+  "f26c25624c4cfa3ae8393e80829cccd09fff3c453ed34f5883ea1fd6db15161e": {
+    "groups": [
+      "120363423445449589@g.us",
+      "120363399967884855@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T00:38:44.315Z"
+  },
+  "955596c72deb2ac379c6a904e3920a05a59f9c9233dd17aa35558d28952a64f6": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 2,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T21:01:46.001Z"
+  },
+  "4134002c94c2af774d031e518812955bde545008267582563a2df54818f56b28": {
+    "groups": [
+      "120363405151105405@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T21:02:28.008Z"
+  },
+  "00c99f24f43dee28b5231ac94b8ead564fce85e9af201e274ae6e738bf515ded": {
+    "groups": [
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T21:08:56.863Z"
+  },
+  "682328893d054364921fc7da512e0d54f24f93cabe2f92ffa73b657c29ea1cf2": {
+    "groups": [
+      "120363419548178730@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 1,
+    "textCount": 0,
+    "lastSeen": "2026-03-18T21:04:06.293Z"
+  },
+  "979544f2f914d65b5f1ead4e8d690de3ed1bfcb91d714c0e51992681175f2ed2": {
+    "groups": [
+      "120363405084530427@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:04:28.412Z"
+  },
+  "023774a3e172a74f63c0680db15a553365cea382aaf60757d83824dd6606d5f5": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:09:39.785Z"
+  },
+  "5c29d573419629455459fb3f052cdc44bfa267bdeb72c03c082bfb3905b4377e": {
+    "groups": [
+      "120363399967884855@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T21:11:52.572Z"
+  },
+  "89bf15a2b225975ca8814732027d2bba067cac5e8a97a2b8f7f7d9eb24a3e2b1": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T22:21:41.843Z"
+  },
+  "e5323ba98742c27547bcbb9eed13295b28de385b58504b8cc5281a3b8414a949": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T11:29:35.977Z"
+  },
+  "793c98a4143371a2df0851a4e558883dd197faf31199ec6794f3a79ed4c8ba87": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 92,
+    "mediaCount": 44,
+    "textCount": 48,
+    "lastSeen": "2026-03-19T01:04:47.860Z"
+  },
+  "505f86bed318174478502f60ee80d9af040ba0739bbcf329e80219f604c40015": {
+    "groups": [
+      "120363399967884855@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T21:24:43.856Z"
+  },
+  "b9becee636b6a0f691ac9426f11bfaaedd542bf05facb1ecb6aa0d424a1d3cbf": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T21:29:51.884Z"
+  },
+  "713fcbdc20a62ae499fbc514bba2840c29b7ba3fdcfcaba8f2c510f2b01ba7bd": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 16,
+    "mediaCount": 1,
+    "textCount": 15,
+    "lastSeen": "2026-03-19T10:12:09.898Z"
+  },
+  "3b0b6565c39f239a387aa2325aa56032736bf3374a2296d859979cbe08a5fd3f": {
+    "groups": [
+      "120363300978425725@g.us",
+      "120363425074916140@g.us"
+    ],
+    "totalMessages": 98,
+    "mediaCount": 1,
+    "textCount": 97,
+    "lastSeen": "2026-03-19T11:17:18.814Z"
+  },
+  "23f42a981a3f8d510ce7f7bde7d1ffcfab2362d7204353ada40c12104686ec4d": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T22:23:11.146Z"
+  },
+  "4c2bc37d91e23c0df673dde48977267cd008bf985084b8e24078820014efb999": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-18T21:36:40.919Z"
+  },
+  "2fbd6c04a2a9c1a2c90b4d7a6a6f5b4fcf195e767e4dd221ca48850b53e8bd0c": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 0,
+    "textCount": 6,
+    "lastSeen": "2026-03-18T21:40:17.877Z"
+  },
+  "72e68e0e3726bd387b9b26b27b6f9157c2f67a1a5285f5b031d080315df9a831": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 13,
+    "mediaCount": 1,
+    "textCount": 12,
+    "lastSeen": "2026-03-19T09:23:28.440Z"
+  },
+  "287fa4f4b3916c633970d69a14aa7ef7b885949245abbac14a7c040378f5cb99": {
+    "groups": [
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T10:08:04.336Z"
+  },
+  "ffb111304b68a045581ffc43082da0b8ce5795ef95548891070904c34497b9a7": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 9,
+    "mediaCount": 9,
+    "textCount": 0,
+    "lastSeen": "2026-03-18T21:38:09.308Z"
+  },
+  "90a93635755bd64ae9629c719bdd6c8f9c139d36f5cba5a45144978f79290bbc": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 2,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T03:44:19.484Z"
+  },
+  "354a7582c3ebb04994ed5fae6ea4a2401c3c67051fdd2c65081246f0369f7d37": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:42:04.046Z"
+  },
+  "3d44cd2e6811a479d8bd6fb88f648d265820c93eaa318a51a6ea7d36cc7a3f5e": {
+    "groups": [
+      "120363300978425725@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T10:12:02.646Z"
+  },
+  "a24eadecdb289121cd5f343cb6eef1c5ceadf54a79032c4022469c5cdcb6e89f": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:49:06.346Z"
+  },
+  "1cc4b4cba4d01a09185232e893481da3bbec9eb35b06a5cee042542e3fc4b587": {
+    "groups": [
+      "120363041516751424@g.us",
+      "120363423445449589@g.us",
+      "120363399967884855@g.us",
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 21,
+    "mediaCount": 15,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T10:11:58.262Z"
+  },
+  "8c048c1a18a15419d628cae65a012fa4ff2e34fb291ea50b65e181d94895c848": {
+    "groups": [
+      "120363392152249399@g.us",
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 0,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T03:44:18.501Z"
+  },
+  "7e4d681d8a4b27d1748a03c6a51814c2f164fcabec97d4d6eda0265b7478e390": {
+    "groups": [
+      "120363041516751424@g.us",
+      "120363300978425725@g.us",
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 19,
+    "mediaCount": 2,
+    "textCount": 17,
+    "lastSeen": "2026-03-19T10:11:56.586Z"
+  },
+  "70ecdcf3af59192042dcfea0fe848897e49e95e7d5645bd3041b73e29aee5cc7": {
+    "groups": [
+      "120363421775820810@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:57:47.534Z"
+  },
+  "26e62491ddcd05bbce50f052abe7c44051de785a0ae05e5bb14ff07122d470c3": {
+    "groups": [
+      "120363423445449589@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 392,
+    "mediaCount": 0,
+    "textCount": 392,
+    "lastSeen": "2026-03-19T10:11:59.483Z"
+  },
+  "24a61d7648871897c03fdfcc71f0eaa33bc627fa3959e9e4b9372ed13c7c5448": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:58:20.720Z"
+  },
+  "6e6a1d54badc5f39bede03702fc335e3b9ebe67e8f81ad41d798148865e8ff1e": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T21:58:33.539Z"
+  },
+  "623aaa68f911179dede3854be46d3da08bedbbf6141758e76f9340819e5e6073": {
+    "groups": [
+      "120363426429579586@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T10:27:05.779Z"
+  },
+  "2e80fa172f086a41c3dfb47171442a805be20cdc03731154e524c99636648755": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:00:13.547Z"
+  },
+  "d23159fa09301516d8239539f360f38dbffedcf968316caa68b4e237ea25ba11": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:00:13.594Z"
+  },
+  "9974a911bd853d6e20a12d2c81a7b85e49812ab2aae74d1898080307219c825d": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:00:13.720Z"
+  },
+  "f4594024a252346e8e22a5a8d01d6ec400544f32dc0857e07e8cc0cee8c82664": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:00:13.779Z"
+  },
+  "79c3ef12e5c2eddc677351c2b3d80b4f04b95956176cde0d43688ef2f2f2c4f5": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:00:13.783Z"
+  },
+  "0b430c7a81d27449089838dcb05ab26802f4f5713a85ff7fe2d235853337dff7": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 2,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T01:00:52.791Z"
+  },
+  "3ce78a38bb2cf4749cd7bbcf5fc973786e8141b365b3e52aff81d320319e4dd8": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T22:29:50.381Z"
+  },
+  "867066d02edb11bcfb4710471a059e8c4abe8c121264e8054dc4612cd4e4c8a6": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 1,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T00:54:46.610Z"
+  },
+  "83d1352ce0f593203432656bc4f2072109efef08a572225c5cadc1b002c15286": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T09:53:59.160Z"
+  },
+  "ffd9a764c80fd90bbf6097c01ab4eaf6519f2ef5908d5b35bfbce268063f7df9": {
+    "groups": [
+      "120363405151105405@g.us",
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T00:30:03.777Z"
+  },
+  "48c42eb3a87bb50e266cb3ab5679e2b8c82cad1bc5921d32037ced97e81dccd4": {
+    "groups": [
+      "120363405151105405@g.us",
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-18T22:29:17.282Z"
+  },
+  "6566890dc19be717ce056378b33c25d571b97acdb027ef42cbca717ad3c98451": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:19:38.269Z"
+  },
+  "984f4f77579653d136022415b31dbcdb7fa911c64db78c6c88933b770e89d2e3": {
+    "groups": [
+      "120363405151105405@g.us",
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 10,
+    "mediaCount": 6,
+    "textCount": 4,
+    "lastSeen": "2026-03-18T22:11:12.558Z"
+  },
+  "e539d57637c21b7bb678ec092162c9066a025b4801708dc995ac2d95bc3202c1": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 1,
+    "textCount": 0,
+    "lastSeen": "2026-03-18T22:19:54.272Z"
+  },
+  "72e8a9498c1053f58ede470574ba1b6fa44f2633e865870cf5cc29c027b0abfe": {
+    "groups": [
+      "120363385628034399@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 4,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:30:35.146Z"
+  },
+  "0f56836a1041f2b002e3d9a1808ed26cffb53fefd07a1a6fcd3089b85ae3071c": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 1,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T23:42:52.105Z"
+  },
+  "6f4f18e79fc3c2ec7a27626b0bbfdf07c64fd0ed2a6cdcb8260fa46997378bc3": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T23:45:54.658Z"
+  },
+  "a6a459268f6d5a8f77e2603262765514f6ee46ad91016e9427aafe59b89ea4ee": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:31:37.928Z"
+  },
+  "f0bb2ea2a4739fdbf4bbcb039e4507a9829229d5522c2b5e1199a1892275c534": {
+    "groups": [
+      "120363385628034399@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 2,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T01:00:04.600Z"
+  },
+  "0e4839ee2794cf9a397e964a208cafd899670749bf3cb8b4caa86b3f1ff3aaf1": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:31:55.625Z"
+  },
+  "8ea02a12187d500a8c83657e2268b3e8e7434f83890d6128633b694e2f91919e": {
+    "groups": [
+      "120363426429579586@g.us",
+      "120363422021799355@g.us",
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 0,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T10:39:54.717Z"
+  },
+  "0b2d5540c822921f2d4c0a1bbc3a1aaff698c3f8c67e61c9cb34ad80e9e04382": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T22:35:46.340Z"
+  },
+  "4e04e80924d58b306952ee060d521d5773090b56f9b54dec48a034188d700d1e": {
+    "groups": [
+      "120363420937080786@g.us",
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T23:44:37.239Z"
+  },
+  "c9ba00b0cd50923d226d8095cf00cb1275fc3ad13b3186354be30144102ef6d4": {
+    "groups": [
+      "120363405151105405@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 1,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:54:32.952Z"
+  },
+  "ba69ab73a8beb3a00957eed66ae18c72c72a95b0b887bad62c773646e4db0414": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 1,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T23:33:58.871Z"
+  },
+  "0255ec8fb4fd95e936058e9e85939c98c07eef42437ea11363aa848a833b3f24": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 1,
+    "textCount": 0,
+    "lastSeen": "2026-03-18T22:39:42.473Z"
+  },
+  "cf788868384e4154da54d892f3eb0b3c3bb51669e675180c7d7ea09f1f0e44f7": {
+    "groups": [
+      "120363422021799355@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T23:16:43.701Z"
+  },
+  "e1e33d476b7717d07d10dc5b5c79252482e67451a6c86a421d15ed9b31c20b4f": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T23:27:56.650Z"
+  },
+  "96bcf17b0bf9c088fd3f84b1a16aba45a29f0e003635320fab51d7e43c1c506e": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 19,
+    "mediaCount": 0,
+    "textCount": 19,
+    "lastSeen": "2026-03-19T03:01:31.850Z"
+  },
+  "5efdf49a10d4c63bb3f151d851c9838ca1a32647fe4a0318559afe476f3fd85a": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 0,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T02:41:35.601Z"
+  },
+  "727e07bbe227d16b15af5639ee41e70b9862aeb7d63e6c12e2231cc8622b185b": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 11,
+    "mediaCount": 0,
+    "textCount": 11,
+    "lastSeen": "2026-03-19T02:40:13.363Z"
+  },
+  "45433d0806e781ca87341351257717117f4436af311311e53289adc7ecdbce3a": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:20:54.271Z"
+  },
+  "f6f63baaaafdd32712763a55cfa575fe34fb8ed547777e0f7de10a5fd7321e06": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:50:39.764Z"
+  },
+  "dc9124bbacafd3979eacbc13d7684b4972866d12d292b7cd2526b1fa8d9db25c": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:21:09.553Z"
+  },
+  "189b0526e4ed9a70ddaf7171597beccfb55a55a512f2c47f0c58f1244397796a": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:22:04.039Z"
+  },
+  "eb7e6b54a45a3051e11b6b188c2f056b9724213b266aa81a6fbfc2233c19f760": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 15,
+    "mediaCount": 0,
+    "textCount": 15,
+    "lastSeen": "2026-03-19T02:40:57.359Z"
+  },
+  "068d7d05b316f10edac55902477bea4837d6b5da1cc2c05ebd2d5ffdbd816263": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T23:25:04.035Z"
+  },
+  "cfc52c1ca10109859003c33ebe3f06b9895e33274bbd4439c9f301154d775b09": {
+    "groups": [
+      "120363422021799355@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T10:11:57.547Z"
+  },
+  "09ea8306a4f82c4fa08412e8d88d75e0d633ea32dd8b155f9738a86dfb4f6b81": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-18T23:26:41.347Z"
+  },
+  "dde28f485324da4b933ef77fed5cbb86e279a08b7c2a33560296fd8bce2ab07b": {
+    "groups": [
+      "120363422021799355@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:25:33.019Z"
+  },
+  "a0990a43a2c219af3f63e9a4feb4c4b0baf6985f4db4a9f21edf94ecb3c48f37": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T23:28:35.474Z"
+  },
+  "b7ffa82d313fe0201fb20405e03a6a5f6812513d37874ea0564bcf51ca08175a": {
+    "groups": [
+      "120363421775820810@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T23:47:59.597Z"
+  },
+  "697f8c1990ad477b6959598d8bd5815df3efcc27c45310fbce9d798d7e82b5d0": {
+    "groups": [
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:33:48.799Z"
+  },
+  "045263775c7ad2d80d028003780580b3c7368112bcba348b6beaab7039226a0b": {
+    "groups": [
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:33:53.106Z"
+  },
+  "7df43a5321ca4e3fedd50886055be6271da962be3a6fbedf8fdc16b92d421311": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 1,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T10:27:11.017Z"
+  },
+  "3a07e66d6bb268070a78c11ab34c8afbdaf09e30373e1f1ee71ec62545e53974": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:40:57.829Z"
+  },
+  "f0166798198acbcb218f9d73f2791b240dfa43bbc60e7b6b278acecc3e0359c7": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 0,
+    "textCount": 5,
+    "lastSeen": "2026-03-19T00:43:46.363Z"
+  },
+  "07b1c6faf6112adebb174d7fa72451c8e4f7f8c9b52a0f6c7157170516b2629c": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:03:20.253Z"
+  },
+  "e32e7bbc5c0fb0dd0d889a57d839aba317fce7bdae4ab63c05b805238d7cea8f": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 7,
+    "mediaCount": 0,
+    "textCount": 7,
+    "lastSeen": "2026-03-19T00:48:15.994Z"
+  },
+  "d3b4a66bf309001196d5980d72a2efb39707104f7eda552d296df2c3158bbd82": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:43:19.957Z"
+  },
+  "193056dcbf0ce726dfb47a32ae3b6d61fc62423835285df1188ab5176cc0a37f": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:40:28.394Z"
+  },
+  "d91c8717a2af5067df158c7fa8b3a7cb4bee1412a1c8d892e63d6df39661be4c": {
+    "groups": [
+      null,
+      "120363399967884855@g.us",
+      "120363405151105405@g.us",
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 31,
+    "mediaCount": 0,
+    "textCount": 31,
+    "lastSeen": "2026-03-19T01:41:18.160Z"
+  },
+  "cfa2be6dbc078abfbcdcd2f5781da65a97e402fece1e2a2277905ce463c8971b": {
+    "groups": [
+      "120363422021799355@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:44:25.981Z"
+  },
+  "23a580bbddd718d2bcadec47a904164bc95e88755857ca7fdc9701bb4b27bac3": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:48:49.202Z"
+  },
+  "4718e824784431f9e6a63647cca6ab203900e0e4c4f85eb3bc168027c20dfdbb": {
+    "groups": [
+      "120363405084530427@g.us",
+      "120363405151105405@g.us"
+    ],
+    "totalMessages": 8,
+    "mediaCount": 6,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:55:13.294Z"
+  },
+  "1a2e3ce8d7836dbb492b9b924d05cd06fd381243c3c08f9faee2315f95920e34": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:49:22.379Z"
+  },
+  "fe11c48a445b65fbd91f6aceacaa8143a12f576d42aa8a7a868106ae8d4972af": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:49:50.989Z"
+  },
+  "e68dd13acf2e9cfa2837f6365cc4a67384bd9d84d33661f0f7e0aee84537f42e": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-18T23:51:23.400Z"
+  },
+  "ad19c14bbcdd2a528c8ca57242d67c2f6efe2e48dd088fe0017968d6379aa067": {
+    "groups": [
+      "120363421062819656@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-18T23:51:55.005Z"
+  },
+  "3e08cb36fb44162030601db07e542be10e1f008516288e8e9a8983caa00ce383": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T00:55:03.273Z"
+  },
+  "49419c0f55590b6dec6f0732674ab962ca4dfda664f6c536f5533b40ab3ffe8f": {
+    "groups": [
+      "120363423445449589@g.us",
+      "120363405151105405@g.us",
+      "120363399967884855@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 3,
+    "textCount": 0,
+    "lastSeen": "2026-03-19T00:36:59.825Z"
+  },
+  "eec9f590b6a639d72ff76415a484f6524235a0c16c6cf93ccbd62ede4412739b": {
+    "groups": [
+      "120363422021799355@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:01:22.630Z"
+  },
+  "a7700dcec7f170509bc0aba1306a5ada5d6a58d386b2751803a90557b8abdcf2": {
+    "groups": [
+      "120363405084530427@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 2,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:02:36.896Z"
+  },
+  "9dcc7ea92e84d23017a8d9d69501bde2ca6f032b9ab34fa9f78cf014a6447ef5": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 34,
+    "mediaCount": 0,
+    "textCount": 34,
+    "lastSeen": "2026-03-19T08:42:44.565Z"
+  },
+  "6e13c2906d53e628249c613af268e78d249a2366a1dc022d7f374ab13a161135": {
+    "groups": [
+      null
+    ],
+    "totalMessages": 1,
+    "mediaCount": 1,
+    "textCount": 0,
+    "lastSeen": "2026-03-19T00:10:27.609Z"
+  },
+  "471a1fe54f8d99cbe3c1885fe468d56dfbd182d2695c3ced26e80788ef06e430": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:21:21.489Z"
+  },
+  "7be6f5290c9c9c6036301ce1e77d7c3a84d84a1dfcceafabf12dde132ca62fbc": {
+    "groups": [
+      "120363419548178730@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 1,
+    "textCount": 0,
+    "lastSeen": "2026-03-19T00:18:30.373Z"
+  },
+  "0becd4513c3c5eaedc597b9752cf8c69a63086e2009d14200a31745f4b7bef0f": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:19:45.785Z"
+  },
+  "b73cb35ea539fd33aa14a1f9089d375d9621b56fc30cf26b1ac99ac803e542f2": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T01:22:50.613Z"
+  },
+  "d7a0f8825fb1c2cb4af66f230726a47fb645f4dee917733c191d58a98dade907": {
+    "groups": [
+      "120363402792383817@g.us",
+      "120363421802106548@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:20:37.633Z"
+  },
+  "4f5b76d66fc3a717c95b5fd27a1bd4ab66b97e3ab0e4f810642b1343af59081b": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:20:37.668Z"
+  },
+  "677928dd415579e44412fdce487ac01c3e15059327eeaa6a319ffdc52a7f4eee": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 8,
+    "mediaCount": 0,
+    "textCount": 8,
+    "lastSeen": "2026-03-19T01:21:08.173Z"
+  },
+  "b1d068439abfa178a40a817924425bc16c1e1b34456be72f445277b604c5ae07": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T01:28:25.388Z"
+  },
+  "e64d0be5600d081c56b6454237e361ad64ab845bceed3aff0071005e9b4f1dda": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 8,
+    "mediaCount": 0,
+    "textCount": 8,
+    "lastSeen": "2026-03-19T00:37:49.658Z"
+  },
+  "3cc8d42e41126932a251b068c742c92453147cc543b1c69173ce4d972a80145d": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:38:42.039Z"
+  },
+  "9344acdcc3a78d918aaaae9db1f5c5ad8ed9d8483e92e1e1636ca538e7eaaa20": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T01:11:20.412Z"
+  },
+  "c5e21ba0dc9b6dca334cf3c12a1b0fe0d2316053ef7f6a8bbab5130313941528": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 4,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:34:59.119Z"
+  },
+  "a14a4d6c55f6d120f23b41640d9bb91acd0bf83c0e6bcc1e5f0cb2e317dab4b6": {
+    "groups": [
+      "120363421775820810@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:34:05.023Z"
+  },
+  "76cdd0652d238be960a1006c8033334377ba869def08dd696934b4fd1fe0dbca": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:37:46.852Z"
+  },
+  "892fd7b07024e4b4a6ae6bdf277590887e8b6c15c937e429e1001bbe85b1baad": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 9,
+    "mediaCount": 0,
+    "textCount": 9,
+    "lastSeen": "2026-03-19T01:04:19.429Z"
+  },
+  "f571612acfa0324af5f5b842939edc572266a4419387fbe9a4037369a5c356b9": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 6,
+    "mediaCount": 0,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T00:47:08.794Z"
+  },
+  "66feb42561693d9fd09867089b9ae92447c88651572147ec11dcbea8298202e5": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 11,
+    "mediaCount": 7,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T10:12:06.038Z"
+  },
+  "bd028b1605861c413262cbf883d46a785ea285c9a637e4a787e3ee4f09561862": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 0,
+    "textCount": 5,
+    "lastSeen": "2026-03-19T00:46:30.592Z"
+  },
+  "05144133dab719e43231fdf46233443457c9ee694ba28ab0ece1b2c89024027a": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:44:56.233Z"
+  },
+  "8f2406db16d65c666fc2ec07c0f41f6ef763672f0a7abfe4b048fb29e9d96849": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 27,
+    "mediaCount": 0,
+    "textCount": 27,
+    "lastSeen": "2026-03-19T01:28:36.091Z"
+  },
+  "990ccd5c136f9c05780a6f45dc6212eaf5a9680a2fc8a7406c5366f36fdd8313": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:46:34.756Z"
+  },
+  "56a9a8426304ecbe7301bfb9a288c8d5bb20c63c186a91e933225e347d58e585": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T00:51:04.427Z"
+  },
+  "7350d29d3f8686bfa5bc0df713bd129f6a76db8b34c782ead8f3c2c348d788f9": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:50:26.388Z"
+  },
+  "02cf42ef8cc1a48c351b705403b3f279fcf892a1840e0520daa5bb2e0e70c06a": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T01:41:08.835Z"
+  },
+  "09dc65debba749117158148bb4b9c184a1cd2ac849e63f71a3d68979a7705134": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:52:25.135Z"
+  },
+  "552607dae735d6abf86aab81595836a923e5bde4f18ae355f46eb9fd4a0a4c15": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:53:48.912Z"
+  },
+  "c317ed4f475fc36de793d36f685251e6660162a3a0beeaaae3d75785280d4e6d": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:56:28.908Z"
+  },
+  "6cb155e63c7dbe31449f589a5507ac637f2849bcf52f690a3ad9310794c82ac7": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:57:17.498Z"
+  },
+  "2ea434d4222600bebc4bb8b51b926e69e8d0f4ddcbbbc976ca651f7ebc9a80ed": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T00:58:53.352Z"
+  },
+  "88cd8ec0ccd071dd29e1cf60a90a58b8eaf94d9b75428c030fa12c103a7e3101": {
+    "groups": [
+      "120363421775820810@g.us",
+      "120363422021799355@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 8,
+    "mediaCount": 0,
+    "textCount": 8,
+    "lastSeen": "2026-03-19T10:11:57.974Z"
+  },
+  "825a36df353b5ac41e97109f9f57368844ee7e53949c5320249d995664ad48af": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 13,
+    "mediaCount": 0,
+    "textCount": 13,
+    "lastSeen": "2026-03-19T01:21:38.494Z"
+  },
+  "653d3e4dbd4cbe8889cab166147dd9bf37b7e7c30c11a98fdefa102107c40ebc": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T01:02:01.479Z"
+  },
+  "59453951984895de336a8cffc6edc8aa3385bfc8e9d723fe510169bae142da64": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T01:04:55.113Z"
+  },
+  "c85b051f8535ead3774105e4b318c7b1e7b65687c6a06be913af5df80b7811c4": {
+    "groups": [
+      "120363304433430564@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T01:12:56.965Z"
+  },
+  "c99eb4edab50a7289c05e462ffd0d8f282d473afd3bfcd13c841862f6855a37c": {
+    "groups": [
+      "120363300978425725@g.us",
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 19,
+    "mediaCount": 0,
+    "textCount": 19,
+    "lastSeen": "2026-03-19T10:53:25.175Z"
+  },
+  "e0bc6f34906258f4b53f7c2ef1610b3db68baa76980c6dc9a403a3e9e7f2305e": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 3,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T01:23:09.542Z"
+  },
+  "54f370ebf4be16a604df09d3e59fc9d89b648648663ae2fa7ecb5dd752ae6d10": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T01:24:40.315Z"
+  },
+  "dd7751ec1f531682582a32dda9bf76c9621944255251dcd2114fa6c52296761a": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T01:35:20.788Z"
+  },
+  "eecfd0028c1e9cf0091e1a8b24183f7e5851af7dfcd1965fb304b0397553c676": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 8,
+    "mediaCount": 0,
+    "textCount": 8,
+    "lastSeen": "2026-03-19T01:49:17.460Z"
+  },
+  "2aecdc3e4047277c86cf71549afcc085d92471fb81df07b0c367dfc55b56e58e": {
+    "groups": [
+      "120363423339855298@g.us",
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 65,
+    "mediaCount": 2,
+    "textCount": 63,
+    "lastSeen": "2026-03-19T04:14:30.162Z"
+  },
+  "59464a988f211b3163ee486449181c6a8f2b7692a876a867000d4db24239a28d": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T01:46:33.799Z"
+  },
+  "511fdac3d0fcf3b0775607153a2a5f436784623b8c7441e3e7fd29f67ded0cfc": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 19,
+    "mediaCount": 0,
+    "textCount": 19,
+    "lastSeen": "2026-03-19T01:52:26.814Z"
+  },
+  "84d0d43f0c69c4dc7ff3dd81718ead8083d4441b119f24926d465fc2826c71e6": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 0,
+    "textCount": 5,
+    "lastSeen": "2026-03-19T10:02:51.975Z"
+  },
+  "5d129c1ed32380d5d8489debaf664d38993e79fa68bf42d51710bf2cf2f814dd": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T02:04:56.656Z"
+  },
+  "9316d3cf21113841b61f7530a1e54bc2a0ba0a6135d86eb09de954312edeebe5": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T03:31:10.825Z"
+  },
+  "97dc0e4c680b3d91c533998b75d4c11d556742cfe3885de3db0be1b68e254de4": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T02:08:38.272Z"
+  },
+  "5592f4a90ad22afaf71174c87b70838d38fb002b8ef822002868a8644f54b65c": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T02:29:39.519Z"
+  },
+  "9601b0e80dccc6f042fcc94a41f1b379fb4a7cc0b483f8259b7353b55619a380": {
+    "groups": [
+      "120363423265346332@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 1,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T02:54:31.947Z"
+  },
+  "667b73e1c9d5f9830396039042051d6d3d2e8225afba7297243ede5c27a033ad": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T02:35:15.351Z"
+  },
+  "cb0225025206bc8d3e903832c0ea0d0c84c101f6cb923fb6f6464897fbccb3a3": {
+    "groups": [
+      "120363306694248755@g.us",
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 2,
+    "textCount": 0,
+    "lastSeen": "2026-03-19T03:13:18.778Z"
+  },
+  "e06759abbb2e388f024a60dcd9a05d550a841cbc84e74b14e3cbe3e42ffce66f": {
+    "groups": [
+      "120363422021799355@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T02:47:32.470Z"
+  },
+  "98d1ba413d5873d6455825ed76020e804a6533ab88cbc4822838e94dd95f5cfd": {
+    "groups": [
+      "120363423339855298@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T02:59:49.534Z"
+  },
+  "6a89a71bf6c168f2376ecb783ffb0194cf499c88159fb2bf9e5d68e1bda8423a": {
+    "groups": [
+      "120363420937080786@g.us",
+      "120363306694248755@g.us",
+      "120363423445449589@g.us"
+    ],
+    "totalMessages": 18,
+    "mediaCount": 12,
+    "textCount": 6,
+    "lastSeen": "2026-03-19T03:01:32.007Z"
+  },
+  "a8a35588cfd6ce534488d623348c17fd637470347bd4aae31ff8731817078afd": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T03:26:44.102Z"
+  },
+  "837ddcb22d032f1570c8a630b5db2c33bc3f3b6466d491890c8cc271f975d5f5": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T03:29:19.298Z"
+  },
+  "6b4db06d3aab844693cbbe963799e403f46bfc1e236f7559d7da69ccad222105": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 0,
+    "textCount": 3,
+    "lastSeen": "2026-03-19T03:38:26.552Z"
+  },
+  "deb2bc1c25deefabf6c8e1d0ef4792e425b8a93eee334038fd552bdb233e81f0": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T03:42:19.398Z"
+  },
+  "b9ad4a5455fbdc5cdd4e6adc414fd20fd2a2921c0d179c11271d6a27c24bd56f": {
+    "groups": [
+      "120363420937080786@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 0,
+    "textCount": 4,
+    "lastSeen": "2026-03-19T03:49:30.977Z"
+  },
+  "6cf7feb3fd7469d4df82067ef5f5ba933cd48912994b39d617d25d524c53bda2": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T03:52:48.197Z"
+  },
+  "ad296c56eb910b0f035d444152769dcfc33e94b113f880512a84c5239774d67f": {
+    "groups": [
+      null
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T04:10:46.844Z"
+  },
+  "bb2833d66c2385a7b3893c0202bb9acb0184cb15ff1e16aeefa737c2aedb64b2": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T04:31:09.154Z"
+  },
+  "afc4bb34d59cbd1e2efc48e11007b77424818eeb66bfd02cc1c9c4db460158bd": {
+    "groups": [
+      "120363425601967723@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T04:39:25.647Z"
+  },
+  "5cc22266ffd5ddd838604972d1ce966944f194da38f0c0840f50a7680b66b223": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T09:53:22.609Z"
+  },
+  "44e7398c5392d8bac4dbeac150e4314e75609d8ec3d3c3d13efc454c23208126": {
+    "groups": [
+      "120363300978425725@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T10:10:29.451Z"
+  },
+  "ef39bd290a09675ee38ce15bd2d23447dbb2b19e3fa587ffbc714db2bb9acdee": {
+    "groups": [
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 5,
+    "mediaCount": 4,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:05:40.677Z"
+  },
+  "651cf46c091c953fd65e89f3b9141913734358e9b3131073c613656882eba9db": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:54.546Z"
+  },
+  "210e1032ac1c42c74f4490f0488fc1217598e5adf7036030ff7c7e26888eb5f4": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:54.619Z"
+  },
+  "b70ddd206084cd5c36a8ad77b8580fe41b9c63b371ef43e6fa273e362de1b7c7": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:54.644Z"
+  },
+  "fd9eb9d0bd0bef20b4e69a16466354a7673134b50d62e01fda23c027a376c92e": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.016Z"
+  },
+  "2491c5ba8a40d7b4d2428d13a2dfa351831175638012da6099894fe5ddb437df": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.179Z"
+  },
+  "7ebb81082e65350a519766c22f02c1261f7e2d53ea7c5d34dcc6924af9ec5e8a": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.329Z"
+  },
+  "fe15e9abcab27bfee16aec9957e2a9107cf1f5d60aa130522874c7e850069923": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.591Z"
+  },
+  "85691cd745554eab248e877d19730fb0ec5ad85261522b1da1bfcbe3a511c844": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.721Z"
+  },
+  "4fef8a13378e9cbb2918281c32699121dfba6d5bc44d86ea5e61a8b34432df50": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.783Z"
+  },
+  "da1ac04e314cd017be48da2efba80b98634ea726694d3eb80356c6b8c8cc5c69": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.802Z"
+  },
+  "53e0e0fcdf5a250859661a2d651bf2609b20f884e2b0aa210f9526bf6bc9d8cb": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.849Z"
+  },
+  "7f2746493780afdc536096daf97f9210b4cd80fa89f32b9f46bf782f44b41c46": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:55.991Z"
+  },
+  "d393a452b5a16114592fdd2286c7bedb152c886c327fe8ef5ec8da7709d75541": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.035Z"
+  },
+  "2420c419efcd2ed0d61a1bd924c3fa574693d5046bef816ac5b08b016e73df7a": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.123Z"
+  },
+  "b7d236cc558f0c4aca818817e63357a83e0e251195d883f0c3d38a876ad5b419": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.169Z"
+  },
+  "3f47a229cedaa482425598621c5df8afd961a7e6dd33031206b39706e5f54f12": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.203Z"
+  },
+  "a2c8ef714bf072a7ccb2093d72d2a288e8bcab2101e7cf7183c9f39237274651": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.524Z"
+  },
+  "9dbb4df5e5bcdddb254eb12cc069525a4366f543c329b15ae441b1d84f344460": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.530Z"
+  },
+  "16dd127014bf18c38e9db2a764f692b942a7191a11ee0871d47ee2e439a41897": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.535Z"
+  },
+  "df4d0bfd3d8e63374b2c961c8cce084e3b375572c655c7aba6c9c805ff224424": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.698Z"
+  },
+  "af02cd84cd847f1d069cf6d122fb31d84fc410ab07cbd327a9acba89c8d8bcbe": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.780Z"
+  },
+  "29795cf8e2c25d805a0686bca10182f07ba5fd9ffd07ef1eb93375a1c3e2514a": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.833Z"
+  },
+  "582ad10b90178a8023c418f74ce27adaf20da6684d96ebf6032f0715fac17d1f": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.892Z"
+  },
+  "0ef4bed26d687c06230213a2f30d7bbc5f14f7d2d7aa08e6fcd5eb379905d4fe": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:56.923Z"
+  },
+  "aa67b585e2ba459f72725120ff5a5a4725eaf550bfc21f6ac9a93c66393911bb": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T10:11:57.252Z"
+  },
+  "99195e7457894b6884f6aaa1f9c0c5413db76515c208f623b7a83971590d5ba6": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.011Z"
+  },
+  "9fcfdead68e71677059610e262479b872026e842edf2b4fc900caf1f99e4f01c": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.058Z"
+  },
+  "fd97964bb3f169029b2b89f90e0390157cd2007f66a492ec2c6081e879c9bc70": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.073Z"
+  },
+  "d1aa6454845ba36a35a3be580b3e9cb9dd50eedd6ec7398d72e9e0156fdf04c7": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.114Z"
+  },
+  "be1d60c174bdd160734dd41e8883366c86eabcfd70b4baac541dba26700e7ab1": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.205Z"
+  },
+  "53ced64259874fddb05ea6650af827396bf1884df66464d71c298a7e5ee3ff8d": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.226Z"
+  },
+  "8bb755e6fefd751e872e3d0b57a6f4f3011c413ecb8798e829d46e8161b3c9f8": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.411Z"
+  },
+  "210ed4fb0505a7da940a8da579706a910bf83ee600d052af0d4ee608ae8c7fb0": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.424Z"
+  },
+  "c06943b21458928a9b9248e28b9c6fb7fdf2d4a84d68886552c945a4d576745d": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.433Z"
+  },
+  "c57ae480799385965a96a23467effda5f87172b4935e26ea5de9c0e3a377aa06": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.443Z"
+  },
+  "c9c1fe12429ad69eb7f1bf104742bd553a17afe3029761f348ce220c4fcacc6e": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.540Z"
+  },
+  "f83e530962326de98e2d3bd661274c387b6f261933c1bf394b9c8afabae50ae2": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:57.733Z"
+  },
+  "7fb9154958acd87fbd59f0e26448bf015e521bc5b99f4e79187c7cc07e261af0": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.012Z"
+  },
+  "c80df44d5d695bfd50a773dae4b20f9f498823a8de7fd2fd370b7c1bb3fbdf2f": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.031Z"
+  },
+  "f6927f0ca64d14996ccdc990f6c2830e91554b89f80226e13df8d0c910759cb5": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.150Z"
+  },
+  "287c0262757da7a34ee9032f4f77df4ad4bc56f144cced9c343113f233ddfcf1": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.167Z"
+  },
+  "22477187a8f16a87f79ac79b988aa03e54bd8d347fd1d84881b8326c27c7d357": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.180Z"
+  },
+  "a6a499b009718e191f955934e07707b932895f8e58019591be44986683938cb5": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.363Z"
+  },
+  "6c0af17d65af08ac81656a5321ade42b1b3e4b4ee1df2b59afc4c71244ca5c63": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.369Z"
+  },
+  "f8de7926ded2b1c0c4f90215a040425a66b6ed9737991b574cc2df227ceb20cd": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.424Z"
+  },
+  "9208bd35fb112f02388f13d52ab8fdd0a6afc805fbee1cd380399053cd29d482": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.486Z"
+  },
+  "b350aa27e2dee8607bdc6a6753d8df8af0bddbb6b66870ee6101f6a0fed7c008": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.567Z"
+  },
+  "0963257b9844abfe528e32ccfeecd399540d9933b39b1ba130941f679484c9f5": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.639Z"
+  },
+  "9b9b5e7f5b4b3d75129cc706447656ec42f0c523cc2886d822fc27fd1490ccb9": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.678Z"
+  },
+  "81404c11b672f6d39e1d5bc1d337b80b10847482fc2088782d42baa3b0c5f035": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:58.708Z"
+  },
+  "744c9f607813ac02cc3586c3fcbfb918a98e04a7bd4dec668f52cd88d28decf9": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:59.318Z"
+  },
+  "d132327af6b8db58ee3e61b44deb71059470a81eb241959b32027f6b034a51fb": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:59.366Z"
+  },
+  "bf80e60563e1efed887b58225819090c948de04db88e4f7486966bf6ce43c474": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:11:59.600Z"
+  },
+  "54fc682f521fd4b9e522dd8d76a63842859a4aa8251104395f53b5a53e5a9274": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 0,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T10:40:08.131Z"
+  },
+  "1cc533380201da3230311595df09e77b8e74354630cef57b6b38ffcf2031747d": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:00.018Z"
+  },
+  "488583ee61c7010a323f7426a33ac551071552f29c4490c79ac8534bc68c47a1": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:00.066Z"
+  },
+  "8cd84e72b4f3242a7c2e9819d7bfaaf53729139d3c5be9798c2f3e4c902fedfa": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:00.160Z"
+  },
+  "046ed33ec0dd0c8823b7bfcdc78e881901b45ac323b4b632cc06ced90f4444cb": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:00.258Z"
+  },
+  "7306506e59729a01da92543792311a11b83a4c737b1547d7b7afa928ff1d3f26": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:00.330Z"
+  },
+  "17dd69337dddc2ba6b07eb1f2d71451925b7ad7b32d404505aceca121dc86e8c": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:00.758Z"
+  },
+  "d2b59fef14b65048801a5ee2421e53459610d25d1db4bcb97cf351530ea07fb3": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:01.325Z"
+  },
+  "eac74e7447129643f038c063ec7e81e85fe4dbed4a6a6c03254fe9588afcb954": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:02.443Z"
+  },
+  "486c76d7bac640fa805f3d1d5e9e7622379444791ab200b2d530387d0006f4dd": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:02.585Z"
+  },
+  "b9e4d69240a9d05776012d67294da0989be2f48677549c40bccfedacc8acecd2": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:03.132Z"
+  },
+  "e18ef1fa38b1a05efc6cc80d4dd0bdbb65ffff680e7ccbad0244d22f0b096da6": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:03.296Z"
+  },
+  "adf96833ebb0362e070534d9c5b02ed8df4471620c1c79949010397614eb4954": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:06.123Z"
+  },
+  "70228fd6ee86c22af85c195630436c0c399268b244d760c48b815311943402f2": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:06.955Z"
+  },
+  "3e264b037b7a19324396448b766c1a3d6a1bcf87757b32bb78480b2216a79094": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:07.383Z"
+  },
+  "d2c466aeb6c06c92db168fa772e4b5230e4206cfbe65d5102f2e46f8a9bc0de1": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:08.329Z"
+  },
+  "495dfe9f57a046250d8356c9daa4cbbe39cdb8d6e9e77b89718e1c3879c5fad4": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:11.335Z"
+  },
+  "c3322e0b1d5a679d98b17fcfd6cd0af6a0bb7f66981b7cc513c0dcb1697ecc13": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:38.794Z"
+  },
+  "52d652d1c2c08eed2358b6180517995f51085d3cd7aa064c321a3cb9d553f3fd": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:12:40.806Z"
+  },
+  "8ba3f30741c694f656b1f829adaa3015dbd300b42bd64bc50339144976f289cc": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:18:41.808Z"
+  },
+  "aa8108dea17141cb82ec5d3fa30c2e1633e758b8d3cfb6682d1d48d1977cf9e9": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:24:45.921Z"
+  },
+  "cfa363877158fe86aad656401bb24a55511c9b8f8482852a05d5512178e6fbfb": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:25:32.440Z"
+  },
+  "7479a835199c5d67539cd470a2147b01d12c04777b4bb2f044c519d5683311b6": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:26:00.193Z"
+  },
+  "56683e2a9aba62e9a2c564d0067bd27c31cf77eb978a094ee31535aebb8eb3ec": {
+    "groups": [
+      "120363385628034399@g.us",
+      "120363405084530427@g.us",
+      "120363306694248755@g.us"
+    ],
+    "totalMessages": 3,
+    "mediaCount": 3,
+    "textCount": 0,
+    "lastSeen": "2026-03-19T10:30:23.422Z"
+  },
+  "811a82f7991ad8736342bbfccbaf7ad14a38e1875be59ff422ab47aad8d49b08": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:30:07.954Z"
+  },
+  "bb1419287f5c1ec26bf3cc5ff4ebfa8e59220a7eeef7fb0729d7b591127bc8e1": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:42:52.573Z"
+  },
+  "6cb49940b8699adc4ad5e21da1ca3473637e8cc9bf102c6e4f6d3bc00cbf60cd": {
+    "groups": [
+      "120363426429579586@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:49:58.028Z"
+  },
+  "4575e0a4f11abb3eef2ba6bad6a7e5a4f7e0bad708171d574d76d66389e61a8b": {
+    "groups": [
+      "120363041516751424@g.us"
+    ],
+    "totalMessages": 1,
+    "mediaCount": 0,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T10:53:14.831Z"
+  },
+  "92adc6fcd97e70ca43d4fd57f396b84f9b51080dd5ecbebee23dfd3cbaf827d7": {
+    "groups": [
+      "120363392152249399@g.us"
+    ],
+    "totalMessages": 2,
+    "mediaCount": 1,
+    "textCount": 1,
+    "lastSeen": "2026-03-19T11:25:23.574Z"
+  },
+  "67bdd66414fe3ea06f2767028abec9035f50ce240a1dd9e1f4ed8a045ca06d69": {
+    "groups": [
+      "120363399967884855@g.us"
+    ],
+    "totalMessages": 4,
+    "mediaCount": 2,
+    "textCount": 2,
+    "lastSeen": "2026-03-19T11:25:45.609Z"
+  }
+}
